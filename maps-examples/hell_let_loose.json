@@ -3,45 +3,85 @@
     "name": "Carentan",
     "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/carentan.webp"
   },
+  "CT_N": {
+    "name": "Carentan Night",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/carentan-night.webp"
+  },
+  "Driel": {
+    "name": "Driel",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/driel.webp"
+  },
+  "Driel_N": {
+    "name": "Driel (Night)",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/driel-night.webp"
+  },
+  "Elalamein": {
+    "name": "Elalamein",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/elalamein.webp"
+  },
+  "Elalamein_N": {
+    "name": "Elalamein (Night)",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/elalamein-night.webp"
+  },
   "Foy": {
     "name": "Foy",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/foy.webp"
+  },
+  "Foy_N": {
+    "name": "Foy (Night)",
     "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/foy.webp"
   },
   "Hill400": {
     "name": "Hill 400",
     "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/hill400.webp"
   },
+  "Hill400_N": {
+    "name": "Hill 400 (Night)",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/hill400-night.webp"
+  },
   "Hurtgen": {
     "name": "Hurtgen Forest",
     "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/hurtgen.webp"
   },
-  "Omaha": {
-    "name": "Omaha Beach",
-    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/omaha.webp"
+  "Hurtgen_N": {
+    "name": "Hurtgen Forest (Night)",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/hurtgen.webp"
   },
-  "PHL": {
-    "name": "Purple Heart Lane",
-    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/phl.webp"
+  "Kharkov": {
+    "name": "Kharkov",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/kharkov.webp"
   },
-  "SME": {
-    "name": "Sainte-Mère-Église",
-    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/sme.webp"
-  },
-  "StMarie": {
-    "name": "Sainte-Marie-du-Mont",
-    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/smdm.webp"
-  },
-  "Utah": {
-    "name": "Utah Beach",
-    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/utah.webp"
+  "Kharkov_N": {
+    "name": "Kharkov (Night)",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/kharkov-night.webp"
   },
   "Kursk": {
     "name": "Kursk",
     "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/kursk.webp"
   },
-  "Stalin": {
-    "name": "Stalingrad",
-    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/stalingrad.webp"
+  "Kursk_N": {
+    "name": "Kursk (Night)",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/kursk-night.webp"
+  },
+  "Omaha": {
+    "name": "Omaha Beach",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/omaha.webp"
+  },
+  "Omaha_D": {
+    "name": "Omaha Beach (Dusk)",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/omaha-dusk.webp"
+  },
+  "Omaha_N": {
+    "name": "Omaha Beach (Night)",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/omaha-night.webp"
+  },
+  "PHL": {
+    "name": "Purple Heart Lane",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/phl.webp"
+  },
+  "PHL_N": {
+    "name": "Purple Heart Lane (Night)",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/phl-night.webp"
   },
   "Remagen": {
     "name": "Remagen",
@@ -51,20 +91,36 @@
     "name": "Remagen (Night)",
     "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/remagen.webp"
   },
-  "Foy_N": {
-    "name": "Foy (Night)",
-    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/foy.webp"
+  "StMarie": {
+    "name": "Sainte-Marie-du-Mont",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/smdm.webp"
   },
-  "Hurtgen_N": {
-    "name": "Hurtgen Forest (Night)",
-    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/hurtgen.webp"
+  "StMarie_N": {
+    "name": "Sainte-Marie-du-Mont (Night)",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/smdm-night.webp"
   },
-  "PHL_N": {
-    "name": "Purple Heart Lane (Night)",
-    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/phl.webp"
+  "SME": {
+    "name": "Sainte-Mère-Église",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/sme.webp"
   },
-  "Kursk_N": {
-    "name": "Kursk (Night)",
-    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/kursk.webp"
+  "SME_N": {
+    "name": "Sainte-Mère-Église (Night)",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/sme-night.webp"
+  },
+  "Stalin": {
+    "name": "Stalingrad",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/stalingrad.webp"
+  },
+  "Stalin_N": {
+    "name": "Stalingrad",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/stalingrad-night.webp"
+  },
+  "Utah": {
+    "name": "Utah Beach",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/utah.webp"
+  },
+  "Utah_N": {
+    "name": "Utah Beach (Night)",
+    "imageUrl": "https://raw.githubusercontent.com/MarechJ/hll_rcon_tool/master/rcongui/public/maps/utah-night.webp"
   }
 }

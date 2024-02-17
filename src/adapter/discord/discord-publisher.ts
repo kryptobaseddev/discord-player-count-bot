@@ -46,7 +46,7 @@ export class DiscordPublisher implements GameStatusPublisher {
                     .setColor(Colors.Grey)
                     .setTitle('Querying server...')
                     .setFooter({
-                        text: 'Developed by FlorianSW',
+                        text: 'Developed by ThomMerlin',
                     })
             ],
         });
@@ -62,7 +62,7 @@ export class DiscordPublisher implements GameStatusPublisher {
     async publish(status: GameStatus | undefined): Promise<void> {
         const embed: EmbedBuilder = new EmbedBuilder()
             .setFooter({
-                text: 'Developed by FlorianSW',
+                text: 'Developed by ThomMerlin',
             });
         if (status === undefined) {
             await this.client.user?.setPresence({
